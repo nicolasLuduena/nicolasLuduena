@@ -6,19 +6,19 @@ I'm a senior full-stack engineer at [TxPipe](https://txpipe.io/), working across
 
 ## Open-source work
 
-- **[Dolos](https://github.com/txpipe/dolos)** — contributing to Cardano data-node, ledger, and UTxO RPC infrastructure. [See my contributions →](https://github.com/txpipe/dolos/pulls?q=is%3Apr+author%3AnicolasLuduena)
-- **[Pallas](https://github.com/txpipe/pallas)** — contributing Rust primitives and transaction tooling, including support for multiple Plutus language cost models. [See my contributions →](https://github.com/txpipe/pallas/pulls?q=is%3Apr+author%3AnicolasLuduena)
+- **[Dolos](https://github.com/txpipe/dolos)** — contributing to Cardano data-node, ledger, and UTxO RPC infrastructure.
+- **[Pallas](https://github.com/txpipe/pallas)** — contributing Rust primitives and transaction tooling, including support for multiple Plutus language cost models.
 
 ## Selected projects
 
-- **[WitnessFitness](https://github.com/nicolasLuduena/witness-fitness)** — privacy-preserving fitness challenges on Midnight: prove the workout, hide the health data.
+- **[WitnessFitness](https://github.com/nicolasLuduena/witness-fitness)** — a second-place 2026 Midnight hackathon project for privacy-preserving fitness challenges: prove the workout, hide the health data.
 - **[envbro](https://github.com/nicolasLuduena/envbro)** — a Rust CLI for local and peer-to-peer `.env` management, powered by Iroh.
 - **[BigRational](https://github.com/nicolasLuduena/BigRational)** — arbitrary-precision rational arithmetic for TypeScript.
 - **[Midnight asset tokenization](https://github.com/nicolasLuduena/2025-hackathon-midnight)** — a second-place 2025 hackathon project for private real-world asset ownership and trading.
 
 ## Working with
 
-Rust · TypeScript · Cardano · Midnight · zero-knowledge systems · React · Node.js · PostgreSQL · Kubernetes · Terraform
+Rust · TypeScript · Cardano · Midnight · React · Node.js · PostgreSQL · Kubernetes · Terraform
 
 ## Elsewhere
 

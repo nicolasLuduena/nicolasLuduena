@@ -6,8 +6,8 @@ I'm a senior full-stack engineer at [TxPipe](https://txpipe.io/), working across
 
 ## Open-source work
 
-- **[Dolos](https://github.com/txpipe/dolos)** — contributing to Cardano data-node, ledger, and UTxO RPC infrastructure. [See my contributions →](https://github.com/txpipe/dolos/pulls?q=is%3Apr+author%3AnicolasLuduena)
-- **[Pallas](https://github.com/txpipe/pallas)** — contributing Rust primitives and transaction tooling, including support for multiple Plutus language cost models. [See my contributions →](https://github.com/txpipe/pallas/pulls?q=is%3Apr+author%3AnicolasLuduena)
+- **[Dolos](https://github.com/txpipe/dolos)** — contributing to Cardano data-node, ledger, and UTxO RPC infrastructure.
+- **[Pallas](https://github.com/txpipe/pallas)** — contributing Rust primitives and transaction tooling, including support for multiple Plutus language cost models.
 
 ## Selected projects
 

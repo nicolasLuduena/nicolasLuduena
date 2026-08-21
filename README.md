@@ -11,14 +11,14 @@ I'm a senior full-stack engineer at [TxPipe](https://txpipe.io/), working across
 
 ## Selected projects
 
-- **[WitnessFitness](https://github.com/nicolasLuduena/witness-fitness)** — privacy-preserving fitness challenges on Midnight: prove the workout, hide the health data.
+- **[WitnessFitness](https://github.com/nicolasLuduena/witness-fitness)** — a second-place 2026 Midnight hackathon project for privacy-preserving fitness challenges: prove the workout, hide the health data.
 - **[envbro](https://github.com/nicolasLuduena/envbro)** — a Rust CLI for local and peer-to-peer `.env` management, powered by Iroh.
 - **[BigRational](https://github.com/nicolasLuduena/BigRational)** — arbitrary-precision rational arithmetic for TypeScript.
 - **[Midnight asset tokenization](https://github.com/nicolasLuduena/2025-hackathon-midnight)** — a second-place 2025 hackathon project for private real-world asset ownership and trading.
 
 ## Working with
 
-Rust · TypeScript · Cardano · Midnight · zero-knowledge systems · React · Node.js · PostgreSQL · Kubernetes · Terraform
+Rust · TypeScript · Cardano · Midnight · React · Node.js · PostgreSQL · Kubernetes · Terraform
 
 ## Elsewhere
 

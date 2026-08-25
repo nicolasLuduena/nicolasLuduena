@@ -4,11 +4,6 @@ I build infrastructure and tools for technically difficult systems.
 
 I'm a senior full-stack engineer at [TxPipe](https://txpipe.io/), working across blockchain infrastructure, developer tooling, and privacy-preserving applications. I care about protocol correctness, maintainable systems, and tools that make complex workflows easier to operate.
 
-## Open-source work
-
-- **[Dolos](https://github.com/txpipe/dolos)** — contributing to Cardano data-node, ledger, and UTxO RPC infrastructure.
-- **[Pallas](https://github.com/txpipe/pallas)** — contributing Rust primitives and transaction tooling, including support for multiple Plutus language cost models.
-
 ## Selected projects
 
 - **[WitnessFitness](https://github.com/nicolasLuduena/witness-fitness)** — a second-place 2026 Midnight hackathon project for privacy-preserving fitness challenges: prove the workout, hide the health data.
